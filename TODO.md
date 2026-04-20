@@ -1,0 +1,1 @@
+# GitHub Repo Yükleme Adımları\n\n1. [x] Gh CLI kur (winget çalışıyor)\n2. [ ] Repo oluştur\n3. [x] Git init (tamamlandı)\n4. [ ] Git add/commit\n5. [ ] Remote/push\n6. [ ] Kontrol\n\nRepo adı: test-automation-project\nGitHub: demircansu\n\nDurum: Git status - untracked files hazır.
